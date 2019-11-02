@@ -10,23 +10,22 @@ module.exports = {
   googleAnalyticsId: "",
   menu: [
     {
-      label: "Articles",
+      label: "Blog",
       path: "/"
     },
     {
-      label: "About me",
+      label: "About",
       path: "/pages/about"
     },
     {
-      label: "Contact me",
+      label: "Contact",
       path: "/pages/contacts"
     }
   ],
   author: {
     name: "Chris Stephenson",
     photo: "/media/profile-pic.jpg",
-    bio:
-      "Hi! I'm a software developer who made a career switch after working as a field service engineer for a large manufacturer of medical devices. My current interests are in Java and Spring Boot. I'd like for this blog to be a place where I can document of some of the things that I learn and maybe help others along the way.",
+    bio: "Software Developer",
     contacts: {
       email: "clstephenson@gmail.com",
       linkedin: "stephensoncl",
